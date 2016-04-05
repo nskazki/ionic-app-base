@@ -108,6 +108,11 @@ Because:
  * build only with `AppsFlyerSDK` contains 21514 methods
  * build without plugins contains 1064 methods
 
+# Links
+
+ * https://github.com/AppsFlyerSDK/AppsFlyerFramework/issues/15
+ * https://github.com/danwilson/google-analytics-plugin/issues/212
+
 # Related issues 
 
  * https://github.com/kraihn/cordova-plugin-tag-manager/issues/19
