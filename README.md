@@ -67,6 +67,38 @@ Total time: 34.011 secs
 Error: Error code 1 for command: /home/nskazki/node.js/claritasmind-work-projects/ionic-app-base/platforms/android/gradlew with args: cdvBuildDebug,-b,/home/nskazki/node.js/claritasmind-work-projects/ionic-app-base/platforms/android/build.gradle,-Dorg.gradle.daemon=true,-Pandroid.useDeprecatedNdk=true
 ```
 
+# Environment
+
+```
+$ cat /etc/lsb-release 
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=15.10
+DISTRIB_CODENAME=wily
+DISTRIB_DESCRIPTION="Ubuntu 15.10"
+```
+
+```
+$ java -version
+java version "1.7.0_79"
+Java(TM) SE Runtime Environment (build 1.7.0_79-b15)
+Java HotSpot(TM) 64-Bit Server VM (build 24.79-b02, mixed mode)
+```
+
+```
+$ node -v
+v5.10.0
+```
+
+```
+$ ionic -v
+1.7.14
+```
+
+```
+$ cordova -v
+6.1.1
+```
+
 # Notes
 
 It's not a [>65k methods problem](https://developer.android.com/intl/ko/tools/building/multidex.html)
